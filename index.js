@@ -8,4 +8,4 @@ function wrapAdjective(highlight) {
     return function(adjective) {
       return `You are ${highlight}${adjective}${highlight}!`;
     }
-  }
+  } 
